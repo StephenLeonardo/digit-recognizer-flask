@@ -78,7 +78,7 @@
 					 document.getElementById("pred").innerHTML = prediction
 					 document.getElementById("prob").innerHTML = prob
 					 document.getElementById("result").style.display = "inline"
-
-			   }
-		   });
+					 
+					}
+				});
 	   }
